@@ -12,10 +12,10 @@
         "symfony/flex": "^2"
     },
     "flex-require": {
-        "symfony/skeleton": "*",
+        "symfony/skeleton": "*"
     },
     "flex-require-dev": {
-        "phpstan/phpstan": "*",
+        "phpstan/phpstan": "*"
     },
   "require-dev": {
     },
